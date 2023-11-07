@@ -1,6 +1,6 @@
 import os
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_dU2D4sim9RRc7yjhN2Zy4H0Wmqyoz3k2D51I5"
+os.environ["REPLICATE_API_TOKEN"] = ""
 
 import replicate
 
